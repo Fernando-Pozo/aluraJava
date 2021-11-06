@@ -6,7 +6,7 @@ public class TesteReferencias {
 	  g1.setNome("Marcos");
 	  g1.setSalario(5000.0);
 	  
-	  Funcionario f1 = new Funcionario();
+	  Funcionario f1 = new Gerente();
 	  f1.setNome("ze");
 	  f1.setSalario(2500.0);
 	  
